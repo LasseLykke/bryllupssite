@@ -25,15 +25,15 @@
 		"oAP": "/assets/DSC00269.xmp",
 		"oF": 0
 		},
-	"/assets/ønskeskyenlogo.jpg": {
-		"ft": 16384,
-		"iS": 1711,
-		"jF": 0,
+	"/assets/index.png": {
+		"ft": 32768,
+		"iS": 2292,
 		"oA": 0,
-		"oAP": "/assets/ønskeskyenlogo.jpg",
+		"oAP": "/assets/index.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/images/header.jpg": {
@@ -45,7 +45,40 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
-		"q": 60
+		"q": 38
+		},
+	"/images/ønskeskyen.png": {
+		"ft": 32768,
+		"iS": 13403,
+		"oA": 0,
+		"oAP": "/images/ønskeskyen.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/ønskeskyen_1-1.png": {
+		"ft": 32768,
+		"iS": 30259,
+		"oA": 0,
+		"oAP": "/images/ønskeskyen_1-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/ønskeskyenlogo.png": {
+		"ft": 32768,
+		"iS": 2292,
+		"oA": 0,
+		"oAP": "/images/ønskeskyenlogo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/index.html": {
 		"cB": 0,
@@ -74,6 +107,25 @@
 		"oAP": "/main-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		}
 	},
 "hooks": [
