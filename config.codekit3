@@ -25,6 +25,17 @@
 		"oAP": "/assets/DSC00269.xmp",
 		"oF": 0
 		},
+	"/assets/IMG_0557.JPG": {
+		"ft": 16384,
+		"iS": 7526024,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/IMG_0557.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/index.png": {
 		"ft": 32768,
 		"iS": 2292,
@@ -36,6 +47,14 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/MVI_2918.MP4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/MVI_2918.MP4",
+		"oF": 0
+		},
 	"/images/header.jpg": {
 		"ft": 16384,
 		"iS": 4456448,
@@ -46,6 +65,17 @@
 		"oIPL": 1,
 		"opt": 1,
 		"q": 38
+		},
+	"/images/tove.JPG": {
+		"ft": 16384,
+		"iS": 7526024,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/tove.jpg",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"q": 44
 		},
 	"/images/ønskeskyen.png": {
 		"ft": 32768,
