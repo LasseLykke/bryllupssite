@@ -1,4 +1,4 @@
-# Bryllupssite
+# Bryllupssite (Weddingsite)
 Landingpage for some friends' wedding announcement.
 
 Build with:<br>
