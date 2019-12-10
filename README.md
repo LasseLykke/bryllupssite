@@ -1,2 +1,5 @@
 # bryllupssite
-Landing page for Mads and Lærkes wedding. 
+Landingpage for some friends' wedding announcement.
+
+# Build with:
+HTML and CSS with Bootstrap framework. 
